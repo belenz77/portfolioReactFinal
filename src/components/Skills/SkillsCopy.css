@@ -1,0 +1,13 @@
+/* CSS:*/
+.myTagCloud {
+    cursor: pointer;
+    width:75%;
+    margin: 0 auto;
+    
+  }
+  .myTagCloud span{ padding:12px;}
+  .myTagCloud span:hover {
+   
+    border-bottom: 3px solid #54BAB9;
+}
+  /**/

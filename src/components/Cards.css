@@ -1,0 +1,33 @@
+.ContainerCards {
+    width: 100%;
+    display:flex;
+  
+  }
+  
+  
+  .box{
+  
+  
+  
+  
+  
+  
+  }
+  .containerCard{justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 50px auto;}
+    .box img{    padding: 10px;
+      outline: 10px solid #000;    margin-bottom: 20px;}
+      .Cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 50px;
+      }
+      
+      .Cards .cardProyect {
+        flex-basis: calc(30% - 50px);
+        margin-bottom: 50px;
+      }
+  
